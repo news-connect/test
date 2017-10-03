@@ -1,1 +1,1 @@
-var test = 'toto';
+let test = "toto";
