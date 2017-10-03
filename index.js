@@ -1,1 +1,2 @@
-let test = "toto";
+const test = "toto";
+console.log(test);
